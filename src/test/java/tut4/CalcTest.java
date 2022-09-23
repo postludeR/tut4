@@ -11,4 +11,10 @@ class CalcTest {
         Calc test = new Calc();
         assertEquals(test.add(1,2), 3);
     }
+
+    @Test
+    void substract() {
+        Calc test = new Calc();
+        assertEquals(test.substract(2,1), 1);
+    }
 }
