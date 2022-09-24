@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: tut4.CalcTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! - in tut4.CalcTest
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in tut4.CalcTest
 substract  Time elapsed: 0.006 s  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <3> but was: <1>
 	at tut4.CalcTest.substract(CalcTest.java:19)
